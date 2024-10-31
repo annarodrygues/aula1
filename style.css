@@ -1,14 +1,14 @@
 body{
-    background-color: rgb(169, 182, 206);
+    background-color: hsl(0, 0%, 100%);
     text-align: center;
 }
 
 header{
-    background-color: cornflowerblue;
-    color: rgba(116, 220, 255, 0.616);
+    background-color: hsl(217, 32%, 90%);
+    color: black;
 } 
 footer{
 
-    background-color: cornflowerblue;
-    color: rgba(116, 220, 255, 0.616);
+    background-color: hwb(240 89% 7% / 0.945);
+    color: black;
 }
